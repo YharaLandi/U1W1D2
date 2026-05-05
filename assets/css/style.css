@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.cute{
+    color: blueviolet;
+    font-weight: 600;
+}
+
+h1, h2, h3{
+    color: blueviolet;
+}
